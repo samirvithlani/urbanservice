@@ -14,5 +14,5 @@ const createRole = async (req, res) => {
   }
 };
 module.exports = {
-    createRole,
-}
+  createRole,
+};
